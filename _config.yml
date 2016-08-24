@@ -1,8 +1,8 @@
 # Site settings
 title: DentistSmile | Dental Jekyll Theme
 description: "A responsive Jekyll theme for everyone."
-baseurl: "/web3/"
-url: "http://elijah1one.github.io"
+baseurl: /web3/
+url:
 logo_url: svg/min/logo.svg
 
 # Hero
